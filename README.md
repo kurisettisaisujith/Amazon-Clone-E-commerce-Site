@@ -19,7 +19,7 @@ This is a clone of the popular e-commerce platform **Amazon**. The project is bu
 ## Project Structure
 
 
-/Amazon-Clone-E-commerce-Site
+## Amazon-Clone-E-commerce-Site
 ├── public/                # Public folder containing index.html
 ├── src/                   # Source files for the React app
 │   ├── components/        # React components for the website
@@ -65,13 +65,4 @@ The app will open in your browser at [http://localhost:3000](http://localhost:30
 - Payment Gateway: Integrate a payment system (e.g., Stripe).
 - Search Functionality: Add product search and filtering options.
 
-## License
 
-This project is open-source and available under the [MIT License](LICENSE).
-
-
-
-Feel free to fork the repository, contribute, or open issues if you find any bugs.
-
-
-You can add or modify the sections as needed, such as adding images, future features, or additional setup instructions. Let me know if you'd like any adjustments!
