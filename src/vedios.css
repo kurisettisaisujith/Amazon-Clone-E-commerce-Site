@@ -1,0 +1,132 @@
+.image_selected_display{
+    margin-top: 10px;
+    margin-left: 248.438px;
+    height: 448px;
+    width: 320.124px;
+}
+.image_selecting_description{
+    color: #111;
+    text-align: left;
+    margin-top: 30px;
+    font-family: verdana,arial,helvetica,sans-serif;
+    font-size: 17px;
+    word-wrap: break-word;
+    width: 280px;
+    padding-right: 15px;
+}
+.image_display{
+    display: flex;
+   
+
+  
+
+}
+
+.image_selecting{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  
+}
+.image_selecting_choices{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 400px;
+    margin-left: 28%;
+   
+    
+  
+   
+   
+}
+#click1{
+    border: 2px solid black;
+    padding: 20px;
+    width: 50px;
+    height: 50px;
+}
+.select1{
+    margin: 10px;
+}
+#selected_image{
+    height: 420px;
+    width: 320.124px;
+}
+.clicks{
+float: left;  
+height: 540px;
+width: 1188px;
+
+
+}
+@media (max-width: 428px) {
+    .image_selected_display{
+        margin-top: 10px;
+        margin-left: 248.438px;
+        height: 448px;
+        width: 320.124px;
+    }
+    .image_selecting_description{
+        color: #111;
+        text-align: left;
+        margin-top: 30px;
+        font-family: verdana,arial,helvetica,sans-serif;
+        font-size: 17px;
+        word-wrap: break-word;
+        width: 280px;
+        padding-right: 15px;
+    }
+    .image_display{
+        display: flex;
+       
+    
+      
+    
+    }
+    
+    .image_selecting{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+      
+    }
+    .image_selecting_choices{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        width: 400px;
+        margin-left: 28%;
+       
+        
+      
+       
+       
+    }
+    #click1{
+        border: 2px solid black;
+        padding: 20px;
+        width: 50px;
+        height: 50px;
+    }
+    .select1{
+        margin: 10px;
+    }
+    #selected_image{
+        height: 420px;
+        width: 320.124px;
+    }
+    .clicks{
+    float: left;  
+    height: 540px;
+    width: 1188px;
+    
+    
+    }
+      
+    }
+  

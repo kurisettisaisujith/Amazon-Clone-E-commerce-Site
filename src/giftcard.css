@@ -1,0 +1,118 @@
+.gifthead{
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 36px;
+    font-family: "Amazon Ember",Arial,sans-serif;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.gift_subhead{
+    font-size: 20px;
+    font-family: "Amazon Ember",Arial,sans-serif;
+    font-weight: bold;
+}
+.giftlinks ul{
+ 
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+    float: left;
+
+}
+.giftlinks ul li{
+   width:130px;
+
+}
+.giftlinks{
+   display: flex;
+   flex-direction: column;
+ 
+ }
+ .see_all_originals_link{
+    font-size: 18px;
+   
+    color: #064F70;
+ }
+ .shop_by_card_type_head{
+    font-size: 20px;
+    font-family: "Amazon Ember",Arial,sans-serif;
+    font-weight: bold;
+padding-top: 30px;
+ }
+
+ .shop_by_card_type_images{
+
+    display:flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 30px;
+   
+   
+ }
+
+ .shop_card_img{
+    width:300px;
+    padding-top: 10px;
+   }
+   .shop_card_img1{
+  
+   }
+
+   .shop_card_name{
+  padding-top:5px ;
+  padding-bottom: 5px ;
+    font-size: 15px;
+    font-family: "Amazon Ember",Arial,sans-serif;
+    font-weight: bold;
+   }
+
+   .shop_card_discription{
+    width: 300px;
+    padding-top:5px ;
+    padding-bottom: 5px ;
+      font-size: 15px;
+      font-family: "Amazon Ember",Arial,sans-serif;
+      overflow-wrap: break-word;
+
+   }
+   .shop_card_link{
+    font-size: 18px;
+   
+    color: #064F70;
+   }
+   .shop_card_link:hover{
+    color: red;
+    text-decoration:underline; 
+   }
+   .shop_easter_celebrations{
+      font-size: 20px;
+      font-family: "Amazon Ember",Arial,sans-serif;
+      font-weight: bold;
+   }
+   .Shop_easter_scrolling_images{
+      display: flex;
+      flex-direction: row;
+      overflow-x: scroll;
+   }
+   .Shop_easter_scrolling_images_head{
+      padding-left: 20px;
+      padding-right: 20px;
+     
+   }
+   .shoppersonalisedcards{
+      font-size: 20px;
+      font-family: "Amazon Ember",Arial,sans-serif;
+      font-weight: bold;
+   }
+   .shop_footer_featured_images{
+      display: flex;
+      justify-content: space-evenly;
+      flex-direction: row;
+      flex-wrap: wrap;
+   }
+   .shop_footer_featured_images img{
+      width:300px;
+      padding: 10px;
+   }

@@ -1,0 +1,70 @@
+.ot{
+    width:285px;
+    height: 400px;
+  
+    
+    
+}
+.t{
+    padding-left:20px ;
+    padding-top:15px ;
+    padding-right: 10px;
+    background-color: #ffffff;
+}
+.t1{
+    color: #0f1111;
+    font-weight: bold;
+    padding-bottom: 9px;
+    font-size: 21px ;
+    font-family: "Amazon Ember",Arial,sans-serif;
+}
+.t2{
+    
+    width:270px;
+    height:250px
+}
+.t21 {
+    width: 270px;
+    height:130px;
+    overflow-wrap: break-word;
+   
+   
+}
+.oot{
+    padding: 30px
+}
+.oot1{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+#work{
+    height: fit-content;
+}
+
+
+
+#t21{
+    width: 200px;
+    height:120px
+}
+.t22{
+    display:flex ;
+    justify-content: space-evenly;
+    width: 270px;
+    height: 125px;
+}
+.t3{
+    padding-top: 50px;
+    color: #007185;
+    font-size: 13px ;
+    font-family: "Amazon Ember",Arial,sans-serif;
+}
+#t221{
+    margin-top: 12px;
+    width: 85px;
+    height: 90px;
+    border: 2px solid black;
+    margin-left: 3px;
+}

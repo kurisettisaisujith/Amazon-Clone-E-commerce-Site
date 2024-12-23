@@ -1,0 +1,40 @@
+*{
+  
+}
+.cart_img{
+    padding: 20px;
+    width: 400px;
+    height: 400px;
+}
+.cart_details{
+   display: flex;
+   justify-content: space-evenly;
+   flex-wrap: wrap;
+
+}
+.cart_dis{
+    padding: 15px;
+    font-family: AEmb,Helvetica,Arial,sans-serif;
+    font-size: 24px;
+    color: #232f3e;
+}
+.cart_sign_button1{
+    background: #f0c14b;
+   border-radius: 3px;
+  width: 170px;
+
+   border-color: #a88734 #9c7e31 #846a29;
+}
+.cart_box_button1{
+    padding: 15px;
+}
+#see_today_deals{
+    color: #007185;
+    font-size: 12px;
+ 
+    font-family: "Amazon Ember",Arial,sans-serif;
+}
+#see_today_deals:hover{
+    text-decoration: underline;
+    color: red;
+}

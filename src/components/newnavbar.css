@@ -1,0 +1,164 @@
+ul{
+    list-style:none;
+    display:flex;
+    gap:3.5rem;
+    float:left;
+   
+  
+  }
+  .nav_list{
+    text-decoration: none;
+  font-family: inherit;
+  color:#fff;
+  
+  }
+  nav{
+    display:flex;
+   
+    
+    
+  }
+  ul li{
+  
+  overflow-wrap: normal;
+   
+  
+  }
+  .ul_top{
+  
+  }
+  
+  .newnav{
+    background-color: #232F3E;
+    width: 100%;
+    height: 7vh;
+  }
+  @media (max-width: 768px) { 
+    
+  ul{
+    list-style:none;
+    display:flex;
+    gap:3.5rem;
+    float:left;
+   
+  
+  }
+  .nav_list{
+    text-decoration: none;
+  font-family: inherit;
+  color:#fff;
+  
+  }
+  nav{
+    display:flex;
+   
+    
+    
+  }
+  ul li{
+  
+  font-size: 14px;
+   
+  
+  }
+  .ul_top{
+  
+  }
+  
+  .newnav{
+    background-color: #232F3E;
+    width: 100%;
+    height: 7vh;
+  }
+  }
+  
+  @media (max-width: 428px) {
+    
+    ul{
+        list-style:none;
+        display:flex;
+        gap:3.5rem;
+        float:left;
+       
+    
+    }
+    .nav_list{
+        text-decoration: none;
+     font-family: inherit;
+     color:#fff;
+     
+    }
+    nav{
+        display:flex;
+       
+        
+        
+    }
+     ul li{
+   
+       
+    
+    }
+    .ul_top{
+       
+    font-size: 9px;
+    overflow-x: scroll;
+    }
+    
+    .newnav{
+        background-color: #232F3E;
+        width: 100%;
+        height: 7vh;
+    }
+    }
+  
+    @media (max-width: 320px) {
+  
+    
+        ul{
+            list-style:none;
+            display:flex;
+            gap:3.5rem;
+            float:left;
+           
+        
+        }
+        .nav_list{
+            text-decoration: none;
+         font-family: inherit;
+         color:#fff;
+         
+        }
+        nav{
+            display:flex;
+           
+            
+            
+        }
+        #three_lines{
+           
+        }
+         ul li{
+       
+           
+        
+        }
+        .ul_top{
+           
+        font-size: 7px;
+        overflow-x: scroll;
+        }
+        
+        .newnav{
+            background-color: #232F3E;
+            width: 100%;
+            height: 10vh;
+        }
+        }
+        @media (max-width: 834px) {
+            .newnav{
+                background-color: #232F3E;
+                width: 100%;
+                height: 6vh;
+            }
+        }

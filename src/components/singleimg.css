@@ -1,0 +1,30 @@
+.single{
+    width:250px;
+    height: 400px;
+    background-color: #ffffff;
+    padding: 10px;
+}
+.simg{
+    padding-left:20px ;
+    padding-top:15px ;
+    padding-right: 10px;
+}
+.sm1{
+    color: #0f1111;
+    padding-bottom: 9px;
+    font-weight: bold;
+    font-size: 21px ;
+    font-family: "Amazon Ember",Arial,sans-serif;
+}
+.sm2{}
+#smimages21{
+    width:220px;
+    height:250px
+
+}
+.sm3{
+    color: #007185;
+    font-size: 13px ;
+    padding-top: 20%;
+    font-family: "Amazon Ember",Arial,sans-serif;
+}

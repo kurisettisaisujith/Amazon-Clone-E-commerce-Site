@@ -1,0 +1,51 @@
+
+.footer{
+    width:180px;
+ height: 400px;
+    padding-left: 40px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+#fimg{
+    width:150px;
+    height: 250px;
+}
+.Amachoice{
+
+   color: #232f3e;
+    float: left;
+    font-size: small;
+   
+}
+
+.fdetails{
+   
+    color: #007185;
+    font-size: 12px;
+    overflow-wrap: break-word;
+    font-family: "Amazon Ember",Arial,sans-serif;
+
+}
+.fd{
+    width:200px;
+}
+.fdeals{
+    color:#ffffff;
+    width: 50px ;
+    font-size: 12px;
+    margin: 0px 6px 0px 0px;
+    padding: 4px 6px;
+    background-color: red;
+    font-family: "Amazon Ember",Arial,sans-serif;
+
+}
+
+
+.Amachoice{
+    color: black;
+
+   padding-top: 1%;
+    font-size: 15px ;
+
+    font-family: "Amazon Ember",Arial,sans-serif;
+}

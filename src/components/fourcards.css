@@ -1,0 +1,56 @@
+.four{
+    width:250px;
+    height: 400px;
+    background-color: #ffffff;
+    padding: 10px;
+    
+   
+}
+.f{
+   padding-left:20px ;
+   padding-top:15px ;
+   padding-right: 10px;
+}
+.f1{
+    color: #0f1111;
+    font-weight: bold;
+    padding-bottom: 9px;
+    font-size: 21px ;
+    font-family: "Amazon Ember",Arial,sans-serif;
+}
+.f3{
+    color: #007185;
+    font-size: 13px ;
+    font-family: "Amazon Ember",Arial,sans-serif;
+}
+.f2 span{
+    color: #0f1111;
+    font-weight: bold;
+  
+   
+    font-family: "Amazon Ember",Arial,sans-serif;
+}
+
+.f21{
+   
+    width:100px;
+    height: 150px;
+}
+#f21img{
+    width:100px;
+    height:100px;
+  
+}
+#f21img1{
+    padding-left: 10px;
+}
+#f21img2{
+    padding-left: 10px;
+}
+
+.f2{
+    display: flex;
+  
+   flex-wrap: wrap;
+   flex-direction: row;
+}

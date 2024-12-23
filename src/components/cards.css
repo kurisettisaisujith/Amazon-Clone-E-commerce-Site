@@ -1,0 +1,137 @@
+.cards_head{
+    background-color: #f5f6f6;
+}
+.cards_main{
+   
+}
+#c1{
+  }
+  
+.sign_content{
+
+    color: #0f1111;
+    font-weight: bold;
+    font-size: 21px ;
+    font-family: "Amazon Ember",Arial,sans-serif;
+}
+.buttonclass{
+    padding-top:10px ;
+}
+.sign_button{
+    width:200px ;
+    background: #f0c14b;
+    border-color: #a88734 #9c7e31 #846a29;
+    border-radius: 8px;
+}
+.sign{
+    padding-left:20px ;
+    padding-top:15px ;
+    padding-right: 10px;
+}
+.sn{
+    padding: 20px;
+}
+.sign1{
+    width:260px;
+    height:150px;
+    background-color: #ffffff;
+   
+}
+.fimg1{
+   padding: 20px;
+}
+#poster{
+    width:260px;
+    height:255px;
+   
+
+}
+.post1{
+    padding-top:10px ;
+}
+.cards_div1{
+    display: flex;
+ 
+    flex-direction:row;
+    flex-wrap: wrap;
+  
+   
+}
+#scrollimg{
+    width: 200px;
+    height:220px;
+    padding-left: 20px;
+    padding-top: 3px;
+}
+.images12{
+    display: flex;
+    flex-direction: row;
+    overflow-x: scroll;
+}
+.scroll_images{
+
+    background-color: #ffffff;
+    height:300px;
+    
+
+}
+.scroll_img_head{
+    padding: 20px;
+   
+    
+}
+.heading{
+    color: black;
+    padding: 5px;
+   
+    font-size: 21px ;
+font-weight: bold;
+    font-family: "Amazon Ember",Arial,sans-serif;
+}
+#scrollimg1{
+    width: 250px;
+    height:200px;
+    padding-left: 30px;
+    padding-top: 3px;
+    padding-bottom: 20px;
+}
+.footer_heading{
+    padding: 15px;
+    color: black;
+
+   
+    font-size: 15px ;
+font-weight: bold;
+    font-family: "Amazon Ember",Arial,sans-serif;
+}
+.footerimages{
+    display:flex;
+    overflow-x: scroll ;
+}
+.footer_images_class{
+    background-color: #ffffff;
+}
+.fbutton{
+    width:200px ;
+    background: #f0c14b;
+    border-color: #a88734 #9c7e31 #846a29;
+    text-shadow: 0 1px 0 #ffe093;
+   border-top-right-radius: 4px;
+   border-bottom-left-radius: 4px;
+   border-top-left-radius: 4px;
+   border-bottom-right-radius: 4px;
+}
+
+
+   
+
+.footer_button{
+    padding:10px ; 
+ 
+}
+.footerclass{
+    
+   display:flex;
+   align-items: center;
+   justify-content: center;
+}

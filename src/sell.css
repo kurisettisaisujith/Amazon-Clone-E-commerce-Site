@@ -1,0 +1,342 @@
+.sell_head{
+    font-family: AEmb,Helvetica,Arial,sans-serif;
+    font-size: 24px;
+    color: #232f3e;
+   
+}
+.sell_sign_button{
+    
+    width: 100px;
+    height: 40px;
+    background: #ff9900;
+      
+    border-radius: 50px;
+   
+}
+.sell_amazon{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 30px;
+}
+.sell_name{
+    font-family: AEmb,Helvetica,Arial,sans-serif;
+    width: 600px;
+    overflow-wrap: break-word;
+    font-size: 80px;
+    color: #232f3e;
+   font-weight: bold;
+}
+.sell_box{
+    margin:100px
+}
+.sell_des{
+    font-family: AEmb,Helvetica,Arial,sans-serif;
+    width: 500px;
+    overflow-wrap: break-word;
+    font-size: 20px;
+    color: #232f3e;
+  padding: 10px;
+}
+.sell_box_button{
+    
+    width: 100px;
+    height: 40px;
+    background: #ff9900;
+      
+    border-radius: 50px;
+   
+}
+.sell_box_head{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.sell_box_img{
+    padding-top: 50px;
+}
+.sell_box_head1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.sell_box_img1{
+    padding-top: 50px;
+}
+.sell_box1{
+    margin:100px
+}
+.sell_des1{
+    font-family: AEmb,Helvetica,Arial,sans-serif;
+    width: 500px;
+    overflow-wrap: break-word;
+    font-size: 20px;
+    color:#ffffff;
+  padding: 10px;
+}
+.sell_box_button1{
+    
+    width: 100px;
+    height: 40px;
+    background: #ff9900;
+      
+    border-radius: 50px;
+   
+}
+.sell_sign_button1{
+    
+    width: 100px;
+    height: 40px;
+    background: #ff9900;
+      
+    border-radius: 50px;
+   
+}
+.sell_name1{
+    font-family: AEmb,Helvetica,Arial,sans-serif;
+    width: 600px;
+    overflow-wrap: break-word;
+    font-size: 50px;
+    color:#ffffff;
+   font-weight: bold;
+}
+.sell_box_head1{
+    background-color: #232f3e;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 400px;
+    border-radius: 30px;
+}
+
+@media (max-width: 764px){
+    .sell_head{
+    font-family: AEmb,Helvetica,Arial,sans-serif;
+    font-size: 24px;
+    color: #232f3e;
+   
+}
+.sell_sign_button{
+    
+    width: 100px;
+    height: 40px;
+    background: #ff9900;
+      
+    border-radius: 50px;
+   
+}
+.sell_amazon{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 30px;
+}
+.sell_name{
+    font-family: AEmb,Helvetica,Arial,sans-serif;
+    width: 350px;
+    overflow-wrap: break-word;
+    font-size: 50px;
+    color: #232f3e;
+   font-weight: bold;
+}
+.sell_box{
+    margin:30px
+}
+.sell_des{
+    font-family: AEmb,Helvetica,Arial,sans-serif;
+    width: 350px;
+    overflow-wrap: break-word;
+    font-size: 20px;
+    color: #232f3e;
+  padding: 10px;
+}
+.sell_box_button{
+    
+    width: 100px;
+    height: 40px;
+    background: #ff9900;
+      
+    border-radius: 50px;
+   
+}
+.sell_box_head{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.sell_box_img{
+    padding-top: 50px;
+}
+.sell_box_head1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.sell_box_img1{
+    padding-top: 50px;
+    display: none;
+}
+.sell_box1{
+    margin:30px
+}
+.sell_des1{
+    font-family: AEmb,Helvetica,Arial,sans-serif;
+    width: 250px;
+    overflow-wrap: break-word;
+    font-size: 20px;
+    color:#ffffff;
+  padding: 10px;
+}
+.sell_box_button1{
+    
+    width: 100px;
+    height: 40px;
+    background: #ff9900;
+      
+    border-radius: 50px;
+   
+}
+.sell_sign_button1{
+    
+    width: 100px;
+    height: 40px;
+    background: #ff9900;
+      
+    border-radius: 50px;
+   
+}
+.sell_name1{
+    font-family: AEmb,Helvetica,Arial,sans-serif;
+    width: 300px;
+    overflow-wrap: break-word;
+    font-size: 30px;
+    color:#ffffff;
+   font-weight: bold;
+}
+.sell_box_head1{
+    background-color: #232f3e;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 300px;
+    border-radius: 30px;
+}
+
+
+}
+
+@media (max-width: 392px){
+    .sell_head{
+    font-family: AEmb,Helvetica,Arial,sans-serif;
+    font-size: 24px;
+    color: #232f3e;
+   
+}
+.sell_sign_button{
+    
+    width: 100px;
+    height: 40px;
+    background: #ff9900;
+      
+    border-radius: 50px;
+   
+}
+.sell_amazon{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 30px;
+}
+.sell_name{
+    font-family: AEmb,Helvetica,Arial,sans-serif;
+    width: 300px;
+    overflow-wrap: break-word;
+    font-size: 28px;
+    color: #232f3e;
+   font-weight: bold;
+}
+.sell_box{
+    margin:30px
+}
+.sell_des{
+    font-family: AEmb,Helvetica,Arial,sans-serif;
+    width: 280px;
+    overflow-wrap: break-word;
+    font-size: 20px;
+    color: #232f3e;
+  padding: 10px;
+}
+.sell_box_button{
+    
+    width: 100px;
+    height: 40px;
+    background: #ff9900;
+      
+    border-radius: 50px;
+   
+}
+.sell_box_head{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.sell_box_img{
+    padding-top: 50px;
+}
+.sell_box_head1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.sell_box_img1{
+    padding-top: 50px;
+    display: none;
+}
+.sell_box1{
+    margin:30px
+}
+.sell_des1{
+    font-family: AEmb,Helvetica,Arial,sans-serif;
+    width: 170px;
+    overflow-wrap: break-word;
+    font-size: 18px;
+    color:#ffffff;
+  padding: 10px;
+}
+.sell_box_button1{
+    
+    width: 100px;
+    height: 40px;
+    background: #ff9900;
+      
+    border-radius: 50px;
+   
+}
+.sell_sign_button1{
+    
+    width: 100px;
+    height: 40px;
+    background: #ff9900;
+      
+    border-radius: 50px;
+   
+}
+.sell_name1{
+    font-family: AEmb,Helvetica,Arial,sans-serif;
+    width: 250px;
+    overflow-wrap: break-word;
+    font-size: 20px;
+    color:#ffffff;
+   font-weight: bold;
+}
+.sell_box_head1{
+    background-color: #232f3e;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 300px;
+    border-radius: 30px;
+}
+
+
+}

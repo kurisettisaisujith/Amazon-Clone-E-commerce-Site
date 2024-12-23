@@ -1,0 +1,28 @@
+.cart-item {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ddd;
+    padding: 10px;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .cart-item:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .cart-item img {
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+    margin-right: 10px;
+  }
+  
+  .cart-item-details h3 {
+    margin: 0;
+  }
+  
+  .cart-item-details p {
+    margin: 5px 0 0;
+    font-weight: bold;
+  }

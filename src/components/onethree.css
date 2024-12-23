@@ -1,0 +1,51 @@
+.ot{
+    width:285px;
+    height: 400px;
+    background-color: #ffffff;
+    padding: 10px;
+    
+}
+.t{
+    padding-left:20px ;
+    padding-top:15px ;
+    padding-right: 10px;
+}
+.t1{
+    color: #0f1111;
+    font-weight: bold;
+    padding-bottom: 9px;
+    font-size: 21px ;
+    font-family: "Amazon Ember",Arial,sans-serif;
+}
+.t2{
+    
+    width:270px;
+    height:250px
+}
+.t21{
+    width: 270%;
+    height:130px
+}
+
+#t21{
+    width: 200px;
+    height:120px
+}
+.t22{
+    display:flex ;
+    justify-content: space-evenly;
+    width: 270px;
+    height: 125px;
+}
+.t3{
+    padding-top: 43px;
+    color: #007185;
+    font-size: 13px ;
+    font-family: "Amazon Ember",Arial,sans-serif;
+}
+#t221{
+    margin-top: 12px;
+    width: 85px;
+    height: 120px;
+    margin-left: 3px;
+}
