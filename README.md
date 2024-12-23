@@ -20,6 +20,7 @@ This is a clone of the popular e-commerce platform **Amazon**. The project is bu
 
 
 ## Amazon-Clone-E-commerce-Site
+```
 ├── public/                # Public folder containing index.html
 ├── src/                   # Source files for the React app
 │   ├── components/        # React components for the website
@@ -28,6 +29,7 @@ This is a clone of the popular e-commerce platform **Amazon**. The project is bu
 ├── .gitignore             # Git ignore file to avoid unnecessary files in the repo
 ├── package.json           # Project dependencies and scripts
 └── README.md              # Project description (this file)
+```
 
 
 ## Installation
