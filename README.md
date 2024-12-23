@@ -20,7 +20,7 @@ This is a clone of the popular e-commerce platform **Amazon**. The project is bu
 
 
 ## Amazon-Clone-E-commerce-Site
-├── public/                ## Public folder containing index.html
+├── public/                # Public folder containing index.html
 ├── src/                   # Source files for the React app
 │   ├── components/        # React components for the website
 │   ├── context/           # Context API for global state management
