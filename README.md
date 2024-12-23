@@ -1,7 +1,7 @@
 Here's a sample **README.md** file for your **Amazon Clone E-Commerce Site** project:
 
 markdown
-# Amazon Clone E-Commerce Site
+# Amazon Clone E-Commerce Site(https://amzsujith.netlify.app/)
 
 This is a clone of the popular e-commerce platform **Amazon**. The project is built using **React.js** for the frontend, and features product listings, a shopping cart, and a responsive design.
 
